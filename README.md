@@ -7,6 +7,11 @@ With ~ 45€ it is the cheapest one you can usualy get.
 It comes with windows only software, commands hidden in dll, which does not help on linux.
 But since it communicates via USB seriel adapter, there is not much magic that can hide.
 
+Shows up as
+ CP2102 USB to UART Bridge Controller:
+   Product ID:	0xea60
+   Vendor ID:	0x10c4  (Silicon Laboratories, Inc.)
+  
 ![Software](https://github.com/bosb/KL9005s/blob/master/images/software.jpg?raw=true "Software")
 
 ## Innards
